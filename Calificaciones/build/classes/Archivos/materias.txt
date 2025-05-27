@@ -1,0 +1,6 @@
+Materia,U1,U2,U3,U4,U5
+Calculo Integral,90,85,88,98
+Estadistica y Probabilidad,80,82,70
+Química,70,75,72,76,99
+
+poo,98
