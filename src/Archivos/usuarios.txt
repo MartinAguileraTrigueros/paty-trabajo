@@ -1,0 +1,5 @@
+S24120157,1234,Sistemas Computacionales,2
+S23120198,2222,Sistemas Computacionales,4
+S24120181,5432,Sistemas Computacionales,2
+M24120176,12345,Gastronomia,2
+S22120157,12345,Sistemas Computacionales,6

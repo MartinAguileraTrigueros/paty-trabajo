@@ -1,0 +1,5 @@
+Calculo Integral,90,85,88,98,
+Estadistica y Probabilidad,80,82,70,,
+Quimica,70,75,72,76,99
+poo,98,,98,,
+Contabilidad,80,,,,

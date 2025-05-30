@@ -1,0 +1,3 @@
+Calculo Integral,82,77,90,,
+Estadistica y Probabilidad,93,86,89,87,
+Quimica,72,68,74,,85
